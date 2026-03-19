@@ -5,7 +5,7 @@ using System.Windows.Input;
 using System.Windows.Threading;
 
 namespace PongOne
-{
+{ 
 	public partial class MainWindow : Window
 	{
 		DispatcherTimer timer=new DispatcherTimer();
